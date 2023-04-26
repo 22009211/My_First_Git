@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L02</string>
+    <string name="message">Name:</string>
+    <string name="button">Login</string>
+    <string name="message2">Password:</string>
+    <string name="button2">Cancel</string>
+</resources>
